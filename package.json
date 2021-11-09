@@ -1,0 +1,20 @@
+{
+  "name": "aws-api",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.188.0",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7",
+    "pdfkit-table": "^0.1.59",
+    "pdfmake": "^0.2.3",
+    "serverless-http": "^2.7.0",
+    "uuid": "^8.3.2"
+  }
+}
